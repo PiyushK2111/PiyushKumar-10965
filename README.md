@@ -70,7 +70,7 @@ This project can be enhanced further by:
 ## 🖼️ Screenshots
 
 ### ✅ Valid Input Output
-![Valid Output](screenshots/valid_output.png)
+![Valid Output](Output_Screenshots/valid_output.png)
 
 ### ❌ Invalid Input (Marks > 100)
-![Invalid Output](screenshots/invalid_output.png)
+![Invalid Output](Output_Screenshots/invalid_output.png)
